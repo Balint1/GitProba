@@ -1,0 +1,8 @@
+egy
+ketto
+<<<<<<< HEAD
+Branch A harom
+=======
+BranchB Harom
+>>>>>>> BranchB
+Negy
